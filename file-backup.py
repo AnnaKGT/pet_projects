@@ -24,4 +24,4 @@ while True:
     schedule.run_pending()
     time.sleep(60)
 
-#copy_folder_to_directory(source_dir, destination_dir)
+copy_folder_to_directory(source_dir, destination_dir)
