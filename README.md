@@ -55,23 +55,23 @@ Tools: os, json, shutil, sys, subprocess.
 
 
 
-**Quiz Game (E)**
+**- Quiz Game (E)**
 Description: A simple text-based quiz game with predefined questions and answers.
 Tools: random, sys.
 
-**Number Guessing Game (E)**
+**- Number Guessing Game (E)**
 Description: A game where the user guesses a random number within a specific range.
 Tools: random.
 
-**Rock, Paper, Scissors (E)**
+**- Rock, Paper, Scissors (E)**
 Description: A basic game implementing the classic Rock-Paper-Scissors logic.
 Tools: None (built-in logic).
 
-**Choose Your Own Adventure Game (E)**
+**- Choose Your Own Adventure Game (E)**
 Description: An interactive story game where users make choices to progress.
 Tools: None (basic string manipulation).
 
-**Password Manager (M)**
+**- Password Manager (M)**
 Description: Stores and retrieves passwords securely.
 Tools: hashlib, pickle, os.
 
@@ -79,10 +79,10 @@ Tools: hashlib, pickle, os.
 Description: Fetches real-time NBA stats and scores.
 Tools: requests, json, APIs.
 
-**Currency Converter (M)**
+**- Currency Converter (M)**
 Description: Converts currency based on real-time exchange rates.
 Tools: requests, APIs.
 
-**YouTube Video Downloader (M)**
+**- YouTube Video Downloader (M)**
 Description: Downloads videos from YouTube.
 Tools: pytube.
