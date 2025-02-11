@@ -53,6 +53,11 @@ Tools: pygame, math, time, random.
 Description: Scripts showcasing advanced Python features like decorators, threading, or context managers.
 Tools: os, json, shutil, sys, subprocess.
 
+**To-Do List management (E)**
+
+
+**Trivia Game (E)**
+
 
 
 **Quiz Game (E)**
